@@ -1,0 +1,189 @@
+body{
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+.navbar{
+    background-color: blue;
+    padding: 10px;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 18px;
+}
+
+.home-main{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.left{
+    width: 20%;
+    background-color: red;
+    float: left;
+    min-height: 400px;
+    text-align: center;
+}
+
+.middle{
+    width: 60%;
+    background-color: white;
+    float: left;
+    min-height: 400px;
+    text-align: center;
+}
+
+.right{
+    width: 20%;
+    background-color: green;
+    float: left;
+    min-height: 400px;
+    text-align: center;
+}
+
+.ad{
+    clear: both;
+    background-color: orange;
+    text-align: center;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 10px;
+}
+
+.form-box{
+    width: 400px;
+    margin: auto;
+    background-color: white;
+    border: 2px solid black;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.form-box input{
+    width: 90%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.form-box select{
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.form-box button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+
+.profile-top{
+    width: 100%;
+    background-color: pink;
+    padding: 20px;
+}
+
+.profile-left{
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+
+.profile-center{
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+
+.profile-right{
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+
+.profile-img{
+    width: 150px;
+    height: 150px;
+}
+
+.tabs{
+    clear: both;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.tabs a{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.info-box{
+    background-color: white;
+    border: 2px solid black;
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.card{
+    width: 250px;
+    display: inline-block;
+    background-color: white;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.card img{
+    width: 150px;
+    height: 150px;
+}
+
+.news-left{
+    width: 20%;
+    float: left;
+}
+
+.news-center{
+    width: 60%;
+    float: left;
+    text-align: center;
+}
+
+.news-right{
+    width: 20%;
+    float: left;
+}
+
+iframe{
+    width: 100%;
+    height: 400px;
+}
+
+.card img{
+    width:150px;
+    height:150px;
+}
